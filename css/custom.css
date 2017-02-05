@@ -1,0 +1,46 @@
+.center-me {
+	text-align: center;
+}
+
+.navbar-default .nav > li.active > a, .navbar-default .nav > li.active > a:focus {
+    color: sienna !important;
+}
+
+.navbar-default .nav > li > a:hover {
+    color: maroon !important;
+}
+
+.bg-primary {
+    background-color: sienna;
+}
+
+.btn-primary {
+    background-color: sienna;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background-color: maroon;
+    border-color: maroon;
+}
+
+hr {
+	border-color: sienna;
+}
+
+i.text-primary, .link-color {
+    color: sienna;
+}
+
+a.link-color:hover, a.link-color:focus {
+    color: maroon;
+}
+
+@media (min-width: 768px) {
+	.navbar-default.affix .navbar-header .navbar-brand {
+    	color: sienna;
+	}
+}
+
+.slogan {
+	font-style: italic;
+}
