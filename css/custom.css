@@ -39,6 +39,10 @@ a.link-color:hover, a.link-color:focus {
 	font-style: italic;
 }
 
+.contact-line {
+	margin-top: 20px;
+}
+
 @media (min-width: 768px) {
 	.navbar-default.affix .navbar-header .navbar-brand {
     	color: sienna;
