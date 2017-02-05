@@ -35,12 +35,18 @@ a.link-color:hover, a.link-color:focus {
     color: maroon;
 }
 
+.slogan {
+	font-style: italic;
+}
+
 @media (min-width: 768px) {
 	.navbar-default.affix .navbar-header .navbar-brand {
     	color: sienna;
 	}
 }
 
-.slogan {
-	font-style: italic;
+@media (max-width: 768px) {
+	.navbar-default .navbar-header .navbar-brand {
+	    color: sienna;
+	}
 }
