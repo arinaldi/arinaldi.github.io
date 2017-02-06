@@ -43,6 +43,14 @@ a.link-color:hover, a.link-color:focus {
 	margin-top: 20px;
 }
 
+.bio-link {
+	color: black;
+}
+
+.bio-link:hover, .bio-link:visited {
+	color: black;
+}
+
 @media (min-width: 768px) {
 	.navbar-default.affix .navbar-header .navbar-brand {
     	color: sienna;
