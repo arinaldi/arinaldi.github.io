@@ -62,3 +62,14 @@ a.link-color:hover, a.link-color:focus {
 	    color: sienna;
 	}
 }
+
+.owl-theme .owl-nav [class*=owl-] {
+    color: #222222;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
+    margin: 5px;
+    padding: 4px 7px;
+    background: white;
+    cursor: pointer;
+    border-radius: 3px;
+}
