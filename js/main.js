@@ -10,7 +10,7 @@ $(document).ready(function() {
                 dots: false,
                 items: 1,
                 slideBy: 1,
-                autoHeight: true
+                //autoHeight: true
             },
             768:{
                 items: 2,
